@@ -1,7 +1,7 @@
 export const starterMovies = [{
   id: "best-friend-betrayal",
   title: "Best Friend Betrayal",
-  synopsis: "Sarah's life turns upside down when Maya reveals a secret.",
+  synopsis: "Sarah's life turns upside down when Maya reveals a secret that shatters her world.",
   youtubeId: "dQw4w9WgXcQ" 
 }];
 
@@ -14,6 +14,11 @@ export const characters = [
   { 
     name: "Sarah", 
     role: "The Protagonist", 
-    desc: "Early 30s, reaching a breaking point after a devastating betrayal." 
+    desc: "Early 30s, reaching a breaking point after a devastating betrayal. Long dreadlocks." 
+  },
+  {
+    name: "Sheila",
+    role: "The Betrayer",
+    desc: "Tall, deep caramel skin, long soft curls, sharp cheekbones."
   }
 ];
