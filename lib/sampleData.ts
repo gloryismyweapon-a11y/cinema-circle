@@ -1,24 +1,17 @@
-export const starterMovies = [{
-  id: "best-friend-betrayal",
-  title: "Best Friend Betrayal",
-  synopsis: "Sarah's life turns upside down when Maya reveals a secret that shatters her world.",
-  youtubeId: "dQw4w9WgXcQ" 
-}];
-
 export const characters = [
   { 
     name: "Toby", 
     role: "The Reliable Confidante", 
-    desc: "African American woman, early 30s, short natural haircut, warm face." 
+    bio: "An African American woman in her early 30s with a short natural haircut. Toby is the grounded anchor who sees the truth even when Sarah is blinded by emotion."
   },
   { 
     name: "Sarah", 
     role: "The Protagonist", 
-    desc: "Early 30s, reaching a breaking point after a devastating betrayal. Long dreadlocks." 
+    bio: "Reaching a breaking point after a devastating betrayal. Sarah is a woman of strength who must find herself again after her world is turned upside down."
   },
   {
     name: "Sheila",
     role: "The Betrayer",
-    desc: "Tall, deep caramel skin, long soft curls, sharp cheekbones."
+    bio: "Tall with deep caramel skin and long soft curls. Sheila hides her sharp cheekbones behind a rehearsed smile, playing a dangerous game of social chess."
   }
 ];
